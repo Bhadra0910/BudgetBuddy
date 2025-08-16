@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+Pillow==10.3.0
+groq==0.4.1
+python-dotenv==1.0.1
